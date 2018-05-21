@@ -9,6 +9,9 @@
 import UIKit
 import AWSMobileClient
 import AWSCore
+import AWSAuthUI
+import AWSUserPoolsSignIn
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 

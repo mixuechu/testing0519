@@ -10,8 +10,7 @@ import UIKit
 import AWSAuthUI
 import AWSMobileClient
 import AWSUserPoolsSignIn
-import AWSFacebookSignIn
-import AWSGoogleSignIn
+
 
 class ViewController: UIViewController {
 
